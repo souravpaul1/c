@@ -1,0 +1,1 @@
+fetch('/o/headless-admin-user/v1.0/user-accounts/34171',{method:'DELETE',credentials:'same-origin',headers:{'X-CSRF-Token':Liferay.authToken}});
